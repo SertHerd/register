@@ -2,7 +2,7 @@
     "owner": {
         "username": "Seria"
     },
-    "record": {
-        "RECORDTYPE": "RECORDCONTENT"
-    }
+  "record": {
+    "CNAME": "seria.github.io"
+  }
 }
