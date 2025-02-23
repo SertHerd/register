@@ -3,6 +3,7 @@
         "username": "Seria"
     },
   "record": {
-    "CNAME": "seria.github.io"
+    "CNAME": "seria.github.io",
+    "A": ["87.106.100.187:6101"]
   }
 }
